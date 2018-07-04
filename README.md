@@ -4,9 +4,9 @@ HologramPlus is an extension of [randombyte-developer/holograms](https://github.
 
 Installation
 -
-Download [HologramsPlus-1.0.0.jar](ORE_PAGE).<br>
-Download [holograms-3.1.5.jar](https://ore.spongepowered.org/RandomByte/Holograms).<br>
-Download [PlaceholderAPI-4.4.jar](https://ore.spongepowered.org/rojo8399/PlaceholderAPI).
+Download [HologramsPlus-1.0.0.jar](https://ore.spongepowered.org/happyzlife/HologramsPlus/versions).<br>
+Download [holograms-3.1.5.jar](https://ore.spongepowered.org/RandomByte/Holograms/versions).<br>
+Download [PlaceholderAPI-4.4.jar](https://ore.spongepowered.org/rojo8399/PlaceholderAPI/versions).
 
 Usage
 -
