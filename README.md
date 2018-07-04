@@ -1,6 +1,6 @@
 # HologramsPlus
 
-HologramPlus is an extension of [randombyte-developer/holograms](https://github.com/randombyte-developer/) that lets you add placeholders to your holograms.
+HologramPlus is an extension of [randombyte-developer/holograms](https://github.com/randombyte-developer/holograms) that lets you add placeholders to your holograms.
 
 [![](http://happyzleaf.com/uploads/hologramsplus.jpg "Click to watch the video")](https://streamable.com/gc7zs)
 
