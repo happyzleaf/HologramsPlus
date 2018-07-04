@@ -1,0 +1,22 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = pluginGroup
+version = pluginVersion
+
+repositories {
+    maven {
+        url 'https://jitpack.io'
+    }
+}
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+    compile 'com.github.rojo8399:PlaceholderAPI:4.4'
+    //compile 'com.github.randombyte-developer.holograms:holograms-api:v2.1.1'
+    //compile 'com.github.randombyte-developer:holograms:v3.5.1'
+    compile files('libs/holograms-3.1.5.jar')
+}
+
+sponge.plugin.id = pluginId

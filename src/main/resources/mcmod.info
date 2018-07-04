@@ -1,0 +1,13 @@
+[
+	{
+		"modid": "hologramsplus",
+		"name": "HologramsPlus",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"description": "Adds support for PlaceholderAPI to RandomByte's holograms.",
+		"url": "https://happyzleaf.com/",
+		"authorList": ["happyzleaf"],
+		"requiredMods": ["holograms@3.1.5"],
+		"dependencies": ["placeholderapi@4.4"]
+	}
+]
