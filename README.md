@@ -20,6 +20,7 @@ Restrictions
 -
 Due to the nature of the holograms, they cannot let a player being the source of the placeholders. In other words this mean that the number of placeholders actually available are restricted to the one that doesn't rely on players.<br>
 Some examples can be found [here](https://github.com/rojo8399/PlaceholderAPI/wiki/Placeholders#server), [here](https://github.com/happyzleaf/PixelmonPlaceholders/wiki/Placeholders#general-pixelmon-info), and [here](https://github.com/happyzleaf/PixelmonPlaceholders/wiki/Placeholders#general-pok%C3%A9mon-info).<br>
+
 I'm not saying there's no way of actually achieving the use of subjects in the holograms, because technically there are a couple of ways.<br>
 The first is by sending different packets per player, but it's way over the original function of this plugin.<br>
 The second is by parsing the placeholders using the nearest player, which isn't such a bad idea, but it can be achieved relatively easy by other placeholders. If you're interested in seeing it, let me know, I could implement that if people keeps to ask.
