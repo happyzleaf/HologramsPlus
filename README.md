@@ -20,7 +20,7 @@ Example: `/holograms create Hello there! Currently there are %server_online% pla
 
 Restrictions
 -
-Due to the nature of the holograms, they cannot let a player being the source of the placeholders. In other words this mean that the number of placeholders actually available are restricted to the one that doesn't rely on players.<br>
+Due to the nature of the holograms, they cannot let a player being the source of the placeholders. In other words this mean that the number of placeholders actually available are restricted to the ones that don't rely on players.<br>
 Some examples can be found [here](https://github.com/rojo8399/PlaceholderAPI/wiki/Placeholders#server), [here](https://github.com/happyzleaf/PixelmonPlaceholders/wiki/Placeholders#general-pixelmon-info), and [here](https://github.com/happyzleaf/PixelmonPlaceholders/wiki/Placeholders#general-pok%C3%A9mon-info).<br>
 
 I'm not saying there's no way of actually achieving the use of subjects in the holograms, because technically there are a couple of ways.<br>
